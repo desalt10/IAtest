@@ -5,7 +5,7 @@ let router = express.Router();
 
 // 获取环境参数
 router.post("/getEn",(req,res)=>{
-    environment.find({},{_id:0,__v:0})
+    environment.findOne({},{__v:0},{sort:{_id:-1}})
       .then(data=>{
         res.send({
           code : 0,
