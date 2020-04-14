@@ -1,0 +1,37 @@
+{
+  "id": "1744697",
+  "name": "weather-nav",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7998250",
+      "name": "信息",
+      "font_class": "shinshopyouxiang",
+      "unicode": "e664",
+      "unicode_decimal": 58980
+    },
+    {
+      "icon_id": "9062816",
+      "name": "气象站",
+      "font_class": "qixiangzhan",
+      "unicode": "e89c",
+      "unicode_decimal": 59548
+    },
+    {
+      "icon_id": "12571442",
+      "name": "环境监测",
+      "font_class": "huanjingjiance",
+      "unicode": "e74a",
+      "unicode_decimal": 59210
+    },
+    {
+      "icon_id": "12601072",
+      "name": "我 的",
+      "font_class": "wode",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    }
+  ]
+}
